@@ -31,7 +31,7 @@ namespace UniTest
 
         public static string Desencriptar(string texto)
         {
-            string[] abreviado = { "apa", "epe", "ipi", "opo", "upu" };
+            
             string salida = "";
             int i = 0;
             while (i < texto.Length)
